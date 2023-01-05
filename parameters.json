@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "quadra"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "admin@quadra"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "VM_TEMPO"
     }
   }
 }
