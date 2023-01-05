@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "arcad_user"
+      "value": "arcad_user_01"
     },
     "adminPassword": {
       "value": "QuadraQuadra23?"
